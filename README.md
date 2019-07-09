@@ -35,7 +35,10 @@ Commands:
 ```
 
 Example input:
+
 ![alt text](exampleGraph.png)
+
+0 is the start location, 9 is the end location.
 ```
 #comment
 2
