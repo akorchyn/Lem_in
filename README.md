@@ -1,5 +1,5 @@
 # Lem_in
-Lem-in is an algorithmic project, in which the main idea is to distribute ants from the start position to the end without traffic jams using unweighted bidirectional graph.
+Lem-in is an algorithmic project, in which the main idea is to distribute ants from the start position to the end without traffic jams using unweighted bidirectional graph. See more in pdf.
 
 ## Running
 ```
