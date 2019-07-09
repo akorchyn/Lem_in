@@ -16,7 +16,7 @@ make
 ```
 Node Format:
 NAME N1 N2
-NAME - message without '-' and whitespace symbols
+NAME - name of location without '-' and whitespace symbols
 N1, N2 - two numbers.
 
 Links Format:
